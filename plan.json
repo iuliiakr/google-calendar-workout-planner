@@ -1,0 +1,84 @@
+{
+  "plan_name": "2-Week Dumbbell & Bodyweight Foundation",
+  "plan_description": "A 2-week, 3-day/week plan for women 35+ focusing on building total-body strength, improving core stability, and mastering foundational movements with dumbbells and bodyweight.",
+  "phases": [
+    {
+      "phase_name": "Week 1: Movement Mastery & Volume",
+      "duration_weeks": 1,
+      "workouts": [
+        {
+          "name": "Day 1: Full Body A (Lower Body Focus)",
+          "focus": "Legs, Glutes, and Core Stability",
+          "exercises": [
+            {"name": "Bodyweight Squats (or Goblet Squats)", "sets": 3, "reps": "12-15 (focus on depth)"},
+            {"name": "Dumbbell Romanian Deadlifts", "sets": 3, "reps": "12-15 (feel the stretch)"},
+            {"name": "Alternating Reverse Lunges", "sets": 3, "reps": "10-12 per leg"},
+            {"name": "Glute Bridges", "sets": 3, "reps": "15-20 (squeeze at the top)"},
+            {"name": "Plank", "sets": 3, "reps": "30-45 seconds"}
+          ]
+        },
+        {
+          "name": "Day 2: Full Body B (Upper Body Focus)",
+          "focus": "Back, Chest, Shoulders, and Arms",
+          "exercises": [
+            {"name": "Incline Push-ups (on a bench or wall)", "sets": 3, "reps": "8-12 (controlled)"},
+            {"name": "Single-Arm Dumbbell Rows", "sets": 3, "reps": "10-12 per arm"},
+            {"name": "Seated Dumbbell Shoulder Press", "sets": 3, "reps": "12-15"},
+            {"name": "Dumbbell Bicep Curls", "sets": 2, "reps": "12-15"},
+            {"name": "Dumbbell Tricep Overhead Extensions", "sets": 2, "reps": "12-15"}
+          ]
+        },
+        {
+          "name": "Day 3: Full Body C (Metabolic & Core)",
+          "focus": "Coordination, Endurance, and Rotational Core",
+          "exercises": [
+            {"name": "Dumbbell Thrusters (light weight)", "sets": 3, "reps": "12-15"},
+            {"name": "Renegade Rows (no push-up, focus on stability)", "sets": 3, "reps": "8-10 per arm"},
+            {"name": "Dumbbell Farmer's Walk", "sets": 3, "reps": "40-50 steps"},
+            {"name": "Bird-Dog", "sets": 3, "reps": "10-12 per side (slow and controlled)"},
+            {"name": "Side Plank", "sets": 2, "reps": "20-30 seconds per side"}
+          ]
+        }
+      ]
+    },
+    {
+      "phase_name": "Week 2: Building Strength & Intensity",
+      "duration_weeks": 1,
+      "workouts": [
+        {
+          "name": "Day 1: Full Body A (Strength)",
+          "focus": "Heavier Loads, Legs, Glutes",
+          "exercises": [
+            {"name": "Goblet Squats", "sets": 4, "reps": "8-10 (heavier weight)"},
+            {"name": "Dumbbell Romanian Deadlifts", "sets": 4, "reps": "10-12 (heavier weight)"},
+            {"name": "Static Lunges (hold dumbbells)", "sets": 3, "reps": "8-10 per leg"},
+            {"name": "Single-Leg Glute Bridges", "sets": 3, "reps": "10-12 per leg"},
+            {"name": "Weighted Plank (place dumbbell on back)", "sets": 3, "reps": "30 seconds"}
+          ]
+        },
+        {
+          "name": "Day 2: Full Body B (Strength)",
+          "focus": "Heavier Loads, Back, and Shoulders",
+          "exercises": [
+            {"name": "Dumbbell Bench Press", "sets": 4, "reps": "8-10 (heavier weight)"},
+            {"name": "Single-Arm Dumbbell Rows", "sets": 4, "reps": "8-10 per arm (heavier weight)"},
+            {"name": "Arnold Press", "sets": 3, "reps": "10-12"},
+            {"name": "Hammer Curls", "sets": 3, "reps": "10-12"},
+            {"name": "Tricep Dips (on bench or chair)", "sets": 3, "reps": "As many as possible"}
+          ]
+        },
+        {
+          "name": "Day 3: Full Body C (Conditioning)",
+          "focus": "Power, Endurance, and Total Body Burn",
+          "exercises": [
+            {"name": "Dumbbell Swings", "sets": 4, "reps": "15-20"},
+            {"name": "Push-ups (on knees or toes)", "sets": 3, "reps": "To controlled failure"},
+            {"name": "Dumbbell Goblet Reverse Lunge to Knee Drive", "sets": 3, "reps": "8-10 per leg"},
+            {"name": "Bent-Over Dumbbell Reverse Flys", "sets": 3, "reps": "15-20 (light weight)"},
+            {"name": "Hollow Body Hold", "sets": 3, "reps": "20-30 seconds"}
+          ]
+        }
+      ]
+    }
+  ]
+}
