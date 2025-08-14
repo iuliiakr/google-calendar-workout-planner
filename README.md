@@ -50,8 +50,8 @@ It is highly recommended to use a Python virtual environment.
 
 ```bash
 # Clone the repository (replace with your username and repo name)
-git clone https://github.com/your-username/gcal-workout-planner.git
-cd gcal-workout-planner
+git clone https://github.com/iuliiakr/google-calendar-workout-planner.git
+cd google-calendar-workout-planner
 
 # Create and activate a virtual environment
 python3 -m venv venv
