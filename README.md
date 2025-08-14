@@ -2,7 +2,7 @@
 
 This Python script takes a multi-phase strength training plan from a JSON file and automatically schedules it on a dedicated "Fitness" calendar in a Google Calendar.
 
-The project is designed to be flexible, allowing you to specify your training days and start date, while the plan's structure—including duration, distinct training phases, and workouts per week—is defined within the plan file itself. It also includes a robust cleanup feature to safely clear previously scheduled workouts.
+The project is designed to be flexible, allowing you to specify your training days and start date, while the plan's structure — including duration, distinct training phases, and workouts per week—is defined within the plan file itself. It also includes a cleanup feature to safely clear previously scheduled workouts.
 
 
 ## Features
